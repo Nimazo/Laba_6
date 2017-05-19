@@ -1,0 +1,2 @@
+﻿  server.cpp
+LINK : fatal error LNK1104: не удается открыть файл "libboost_system-vc140-mt-1_64.lib"
